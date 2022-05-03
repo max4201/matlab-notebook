@@ -1,13 +1,16 @@
 # MATLAB實用語法
 ## MATLAB的dir使用
 **使用平台:**
-Windows 10 64bit
+
+*Windows 10 64bit*
 
 **MATLAB版本:**
-MATLAB R2013a 64bit
+
+*MATLAB R2013a 64bit*
 
 **說明:**
-使用dir命令查詢資料夾，結果都會回傳「.」與「..」資料夾，可以用下面的簡潔寫法刪掉這兩項資料夾。
+
+*使用dir命令查詢資料夾，結果都會回傳「.」與「..」資料夾，可以用下面的簡潔寫法刪掉這兩項資料夾。*
 
 **Matlab Script:**
 ```matlab
